@@ -923,7 +923,7 @@ else:
 icon_path = os.path.join(base_path, "uDNC.ico")
 
 root = tk.Tk()
-root.title("U-Solutions uDNC")
+root.title("U-Solutions uDNC v0.3.Beta")
 root.geometry("600x400")
 try:
     root.iconbitmap(icon_path)
