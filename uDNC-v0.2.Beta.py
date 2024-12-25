@@ -525,7 +525,7 @@ else:
 icon_path = os.path.join(base_path, "pydnc.ico")
 
 root = tk.Tk()
-root.title("U-Solutions uDNC")
+root.title("U-Solutions uDNC v0.2.Beta")
 root.geometry("600x400")
 try:
     root.iconbitmap(icon_path)
